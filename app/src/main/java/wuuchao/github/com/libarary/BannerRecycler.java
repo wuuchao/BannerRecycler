@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 
 /**
  * 描述:
- * 作者: wuuchao
+ * 作者: wuuchao 2
  * 时间: 2016/07/17 11:21
  */
 public class BannerRecycler extends ViewGroup {
