@@ -9,8 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="wuuchao.github.com.bannerrecycler.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+    <wuuchao.github.com.libarary.BannerRecycler
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
 </RelativeLayout>
